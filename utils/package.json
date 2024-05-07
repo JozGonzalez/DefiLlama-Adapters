@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.6",
     "inquirer-fuzzy-path": "^2.3.0"
   }
 }
